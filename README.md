@@ -1,1 +1,1 @@
-оптимизатор мака Tahoe 27 от Heartbleed.ru / открывай dmg файлом или собирай через билдер
+Tahoe 27 Mac optimizer from Heartbleed.ru — open the DMG file or build it using the builder.
